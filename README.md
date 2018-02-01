@@ -1,4 +1,4 @@
-## Linux shell小功能
+# Linux shell小功能
 
 ### myecho.c
 ![](https://github.com/Mai-Pu/Shell/raw/master/pic/1.png)
